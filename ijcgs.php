@@ -7,10 +7,10 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Spreadsheet Integration – Connect WordPress, WooCommerce & Most popular Form Plugins With  Google Sheets 
- * Plugin URI:        https://wordpress.org/plugins/ijcgs
+ * Plugin URI:        https://github.com/MrImranJaved/ijcgs/blob/main/ijcgs.php
  * Description:       Spreadsheet Integration, Connects WordPress events and most popular plugin with  Google Sheets via API. 
  * Version:           3.6.1
- * Author:            javmah
+ * Author:            Imran Javed
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       ijcgs
